@@ -1,0 +1,21 @@
+{
+  "name": "simplebot",
+  "version": "1.0.0",
+  "description": "A bot that can play music",
+  "main": "bot.js",
+  "author": "Bryce Dai",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^21.3.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
